@@ -1,0 +1,87 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Spencer K\Documents\ECE 1B\ECE 1B Assignments\ECE 155\2048\app\src\main\AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from C:\Users\Spencer K\Documents\ECE 1B\ECE 1B Assignments\ECE 155\2048\app\src\main\AndroidManifest.xml:3:5-51
+		INJECTED from C:\Users\Spencer K\Documents\ECE 1B\ECE 1B Assignments\ECE 155\2048\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Spencer K\Documents\ECE 1B\ECE 1B Assignments\ECE 155\2048\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Spencer K\Documents\ECE 1B\ECE 1B Assignments\ECE 155\2048\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Spencer K\Documents\ECE 1B\ECE 1B Assignments\ECE 155\2048\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Spencer K\Documents\ECE 1B\ECE 1B Assignments\ECE 155\2048\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\Spencer K\Documents\ECE 1B\ECE 1B Assignments\ECE 155\2048\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Spencer K\Documents\ECE 1B\ECE 1B Assignments\ECE 155\2048\app\src\main\AndroidManifest.xml
+application
+ADDED from C:\Users\Spencer K\Documents\ECE 1B\ECE 1B Assignments\ECE 155\2048\app\src\main\AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Spencer K\.android\build-cache\ef82d55f883c8b7ad10d6577063a39c785baf9e0\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Spencer K\.android\build-cache\6f85ac9995bc5387898d191f54ad42fd359f5cc0\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Spencer K\.android\build-cache\a1982ab65a88ba77dc170354ba09935996673110\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Spencer K\.android\build-cache\b5d68411dd50ecd54bd6c025ee82ba854b2420ad\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Spencer K\.android\build-cache\c91c41e5020334103fb1ff455dc29e506fd1e62a\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Spencer K\.android\build-cache\03a099c0e4dd1ff302320e3ef08d679cf128813c\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Spencer K\.android\build-cache\73a40b1b3ab8e56ea2d4ebf910cc1d0a3292e2ef\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Spencer K\.android\build-cache\19f8668d4d23dc7f2aa78239b71ac072d6082e5b\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Spencer K\.android\build-cache\eb5925f801553711f4789eb63ed2d421a268f530\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Spencer K\.android\build-cache\027f291f2eea6b94b2673df5ed98e2b525131533\output\AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from C:\Users\Spencer K\Documents\ECE 1B\ECE 1B Assignments\ECE 155\2048\app\src\main\AndroidManifest.xml:8:9-41
+	android:supportsRtl
+		ADDED from C:\Users\Spencer K\Documents\ECE 1B\ECE 1B Assignments\ECE 155\2048\app\src\main\AndroidManifest.xml:10:9-35
+	android:roundIcon
+		ADDED from C:\Users\Spencer K\Documents\ECE 1B\ECE 1B Assignments\ECE 155\2048\app\src\main\AndroidManifest.xml:9:9-54
+	android:allowBackup
+		ADDED from C:\Users\Spencer K\Documents\ECE 1B\ECE 1B Assignments\ECE 155\2048\app\src\main\AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from C:\Users\Spencer K\Documents\ECE 1B\ECE 1B Assignments\ECE 155\2048\app\src\main\AndroidManifest.xml:7:9-43
+	android:theme
+		ADDED from C:\Users\Spencer K\Documents\ECE 1B\ECE 1B Assignments\ECE 155\2048\app\src\main\AndroidManifest.xml:11:9-40
+activity#lab4_201_03.uwaterloo.ca.lab4_201_03.MainActivity
+ADDED from C:\Users\Spencer K\Documents\ECE 1B\ECE 1B Assignments\ECE 155\2048\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from C:\Users\Spencer K\Documents\ECE 1B\ECE 1B Assignments\ECE 155\2048\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\Spencer K\Documents\ECE 1B\ECE 1B Assignments\ECE 155\2048\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Spencer K\Documents\ECE 1B\ECE 1B Assignments\ECE 155\2048\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from C:\Users\Spencer K\Documents\ECE 1B\ECE 1B Assignments\ECE 155\2048\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Spencer K\Documents\ECE 1B\ECE 1B Assignments\ECE 155\2048\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from C:\Users\Spencer K\Documents\ECE 1B\ECE 1B Assignments\ECE 155\2048\app\src\main\AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from C:\Users\Spencer K\Documents\ECE 1B\ECE 1B Assignments\ECE 155\2048\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Spencer K\.android\build-cache\ef82d55f883c8b7ad10d6577063a39c785baf9e0\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Spencer K\.android\build-cache\6f85ac9995bc5387898d191f54ad42fd359f5cc0\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Spencer K\.android\build-cache\a1982ab65a88ba77dc170354ba09935996673110\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Spencer K\.android\build-cache\b5d68411dd50ecd54bd6c025ee82ba854b2420ad\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Spencer K\.android\build-cache\c91c41e5020334103fb1ff455dc29e506fd1e62a\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Spencer K\.android\build-cache\03a099c0e4dd1ff302320e3ef08d679cf128813c\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Spencer K\.android\build-cache\73a40b1b3ab8e56ea2d4ebf910cc1d0a3292e2ef\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Spencer K\.android\build-cache\19f8668d4d23dc7f2aa78239b71ac072d6082e5b\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Spencer K\.android\build-cache\eb5925f801553711f4789eb63ed2d421a268f530\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Spencer K\.android\build-cache\027f291f2eea6b94b2673df5ed98e2b525131533\output\AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Spencer K\.android\build-cache\ef82d55f883c8b7ad10d6577063a39c785baf9e0\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\Users\Spencer K\Documents\ECE 1B\ECE 1B Assignments\ECE 155\2048\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Spencer K\Documents\ECE 1B\ECE 1B Assignments\ECE 155\2048\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Spencer K\Documents\ECE 1B\ECE 1B Assignments\ECE 155\2048\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Spencer K\Documents\ECE 1B\ECE 1B Assignments\ECE 155\2048\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Spencer K\.android\build-cache\ef82d55f883c8b7ad10d6577063a39c785baf9e0\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Spencer K\.android\build-cache\6f85ac9995bc5387898d191f54ad42fd359f5cc0\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Spencer K\.android\build-cache\a1982ab65a88ba77dc170354ba09935996673110\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Spencer K\.android\build-cache\b5d68411dd50ecd54bd6c025ee82ba854b2420ad\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Spencer K\.android\build-cache\c91c41e5020334103fb1ff455dc29e506fd1e62a\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Spencer K\.android\build-cache\03a099c0e4dd1ff302320e3ef08d679cf128813c\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Spencer K\.android\build-cache\73a40b1b3ab8e56ea2d4ebf910cc1d0a3292e2ef\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Spencer K\.android\build-cache\19f8668d4d23dc7f2aa78239b71ac072d6082e5b\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Spencer K\.android\build-cache\eb5925f801553711f4789eb63ed2d421a268f530\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Spencer K\.android\build-cache\ef82d55f883c8b7ad10d6577063a39c785baf9e0\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Spencer K\.android\build-cache\ef82d55f883c8b7ad10d6577063a39c785baf9e0\output\AndroidManifest.xml:26:9-47
