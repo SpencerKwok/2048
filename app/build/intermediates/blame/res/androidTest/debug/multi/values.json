@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "C:\\Users\\Spencer K\\Documents\\ECE 1B\\ECE 1B Assignments\\ECE 155\\2048\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 45,
+                    "endOffset": 96
+                },
+                "from": {
+                    "file": "C:\\Users\\Spencer K\\.android\\build-cache\\8bc38801389514076095bda505ccba0f43e3c572\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 229,
+                        "endColumn": 45,
+                        "endOffset": 270
+                    }
+                }
+            }
+        ]
+    }
+]
