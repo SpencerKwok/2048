@@ -1,0 +1,7 @@
+#Fri Sep 01 23:02:47 PDT 2017
+base.0=C\:\\Users\\Spencer K\\Documents\\ECE 1B\\ECE 1B Assignments\\ECE 155\\2048\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_2939b87c846775b0d9c40663bbaa434c433b93b6
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\Spencer K\\Documents\\ECE 1B\\ECE 1B Assignments\\ECE 155\\2048\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_ec29b1450a86b9434cd53acdd17d79b5ae127a26\\classes.dex
+base.1=C\:\\Users\\Spencer K\\Documents\\ECE 1B\\ECE 1B Assignments\\ECE 155\\2048\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_ec29b1450a86b9434cd53acdd17d79b5ae127a26
+file.0=C\:\\Users\\Spencer K\\Documents\\ECE 1B\\ECE 1B Assignments\\ECE 155\\2048\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_2939b87c846775b0d9c40663bbaa434c433b93b6\\classes.dex
