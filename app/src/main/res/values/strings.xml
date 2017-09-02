@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Lab4_201_03</string>
+    <string name="UP">UP</string>
+    <string name="DOWN">DOWN</string>
+    <string name="LEFT">LEFT</string>
+    <string name="RIGHT">RIGHT</string>
+    <string name="GAME_OVER">GAME\nOVER</string>
+    <string name="YOU_WIN">YOU\nWIN!</string>
+</resources>
